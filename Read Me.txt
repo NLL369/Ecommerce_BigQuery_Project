@@ -12,6 +12,6 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 5. Average number of transactions per user that made a purchase in July 2017
 6. Average amount of money spent per session
 7. Products purchased by customers who purchased product A (Classic Ecommerce)
-8. Calculate cohort map from pageview to addtocart to purchase in last 3 month.
+8. Calculate cohort map from pageview to addtocart to purchase in last 3 month
    For example, 100% pageview then 40% add_to_cart and 10% purchase
 
