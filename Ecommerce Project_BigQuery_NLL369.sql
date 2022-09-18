@@ -109,9 +109,7 @@ group by 1
 
 
 
--- Query 07: Products purchased by customers who purchased product A (Classic Ecommerce)
-
-
+-- Query 07: Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017
 
 select
   product.v2ProductName as other_purchased_products,
